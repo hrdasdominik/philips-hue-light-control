@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Excluded folders
+EDK-master/
+build/
